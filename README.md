@@ -18,4 +18,7 @@ world-layoffs-analysis
 └── README.md
 ```
 
+## Future Improvements
+
+- Interactive Power BI Dashboard
 
